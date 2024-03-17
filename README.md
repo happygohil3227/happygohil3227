@@ -1,4 +1,3 @@
-# happygohil3227
 <h1 align="center">Hi 👋, I'm Gohil Happy</h1>
 <h3 align="center">Student with aspirations to become a best data scientist</h3>
 
